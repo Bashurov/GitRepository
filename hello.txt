@@ -1,4 +1,0 @@
-print ('hello world')
-print ('good bay')
-print love is..
-pank you
